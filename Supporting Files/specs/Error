@@ -1,0 +1,2 @@
+"redirect_uri_mismatch" after created amplify prod env
+GCP -> APIs & Services -> Credentials -> OAuth -> Add the new prod uri

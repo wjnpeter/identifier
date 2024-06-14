@@ -1,0 +1,259 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "abseil",
+        "repositoryURL": "https://github.com/firebase/abseil-cpp-SwiftPM.git",
+        "state": {
+          "branch": null,
+          "revision": "583de9bd60f66b40e78d08599cc92036c2e7e4e1",
+          "version": "0.20220203.2"
+        }
+      },
+      {
+        "package": "Amplify",
+        "repositoryURL": "https://github.com/aws-amplify/amplify-swift",
+        "state": {
+          "branch": null,
+          "revision": "fa6ca64f42c3e4e72cf6b62c30bc45b2be7b05bc",
+          "version": "2.35.1"
+        }
+      },
+      {
+        "package": "AmplifyUtilsNotifications",
+        "repositoryURL": "https://github.com/aws-amplify/amplify-swift-utils-notifications.git",
+        "state": {
+          "branch": null,
+          "revision": "959eec669ba97c7d923b963c3e66ca8a0b2737f6",
+          "version": "1.1.1"
+        }
+      },
+      {
+        "package": "AppAuth",
+        "repositoryURL": "https://github.com/openid/AppAuth-iOS.git",
+        "state": {
+          "branch": null,
+          "revision": "c89ed571ae140f8eb1142735e6e23d7bb8c34cb2",
+          "version": "1.7.5"
+        }
+      },
+      {
+        "package": "aws-crt-swift",
+        "repositoryURL": "https://github.com/awslabs/aws-crt-swift",
+        "state": {
+          "branch": null,
+          "revision": "0d0a0cf2e2cb780ceeceac190b4ede94f4f96902",
+          "version": "0.26.0"
+        }
+      },
+      {
+        "package": "aws-sdk-swift",
+        "repositoryURL": "https://github.com/awslabs/aws-sdk-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "47922c05dd66be717c7bce424651a534456717b7",
+          "version": "0.36.2"
+        }
+      },
+      {
+        "package": "BoringSSL-GRPC",
+        "repositoryURL": "https://github.com/firebase/boringssl-SwiftPM.git",
+        "state": {
+          "branch": null,
+          "revision": "dd3eda2b05a3f459fc3073695ad1b28659066eab",
+          "version": "0.9.1"
+        }
+      },
+      {
+        "package": "CocoaLumberjack",
+        "repositoryURL": "https://github.com/CocoaLumberjack/CocoaLumberjack.git",
+        "state": {
+          "branch": null,
+          "revision": "80ada1f753b0d53d9b57c465936a7c4169375002",
+          "version": "3.7.4"
+        }
+      },
+      {
+        "package": "Facebook",
+        "repositoryURL": "https://github.com/facebook/facebook-ios-sdk",
+        "state": {
+          "branch": null,
+          "revision": "c19607d535864533523d1f437c84035e5fb101cf",
+          "version": "14.1.0"
+        }
+      },
+      {
+        "package": "Firebase",
+        "repositoryURL": "https://github.com/firebase/firebase-ios-sdk",
+        "state": {
+          "branch": null,
+          "revision": "5c4893c55f9d6114e2bb7c691d7ffd81208ac713",
+          "version": "10.0.0"
+        }
+      },
+      {
+        "package": "GoogleAppMeasurement",
+        "repositoryURL": "https://github.com/google/GoogleAppMeasurement.git",
+        "state": {
+          "branch": null,
+          "revision": "e3dd02f390cae79a7073b46dfb0cb6b60c48401b",
+          "version": "10.0.0"
+        }
+      },
+      {
+        "package": "GoogleDataTransport",
+        "repositoryURL": "https://github.com/google/GoogleDataTransport.git",
+        "state": {
+          "branch": null,
+          "revision": "a637d318ae7ae246b02d7305121275bc75ed5565",
+          "version": "9.4.0"
+        }
+      },
+      {
+        "package": "GoogleSignIn",
+        "repositoryURL": "https://github.com/google/GoogleSignIn-iOS",
+        "state": {
+          "branch": null,
+          "revision": "7932d33686c1dc4d7df7a919aae47361d1cdfda4",
+          "version": "7.0.0"
+        }
+      },
+      {
+        "package": "GoogleUtilities",
+        "repositoryURL": "https://github.com/google/GoogleUtilities.git",
+        "state": {
+          "branch": null,
+          "revision": "57a1d307f42df690fdef2637f3e5b776da02aad6",
+          "version": "7.13.3"
+        }
+      },
+      {
+        "package": "gRPC",
+        "repositoryURL": "https://github.com/grpc/grpc-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "8440b914756e0d26d4f4d054a1c1581daedfc5b6",
+          "version": "1.44.3-grpc"
+        }
+      },
+      {
+        "package": "GTMSessionFetcher",
+        "repositoryURL": "https://github.com/google/gtm-session-fetcher.git",
+        "state": {
+          "branch": null,
+          "revision": "5ccda3981422a84186387dbb763ba739178b529c",
+          "version": "2.3.0"
+        }
+      },
+      {
+        "package": "GTMAppAuth",
+        "repositoryURL": "https://github.com/google/GTMAppAuth.git",
+        "state": {
+          "branch": null,
+          "revision": "cee3c709307912d040bd1e06ca919875a92339c6",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "leveldb",
+        "repositoryURL": "https://github.com/firebase/leveldb.git",
+        "state": {
+          "branch": null,
+          "revision": "a0bc79961d7be727d258d33d5a6b2f1023270ba1",
+          "version": "1.22.5"
+        }
+      },
+      {
+        "package": "nanopb",
+        "repositoryURL": "https://github.com/firebase/nanopb.git",
+        "state": {
+          "branch": null,
+          "revision": "819d0a2173aff699fb8c364b6fb906f7cdb1a692",
+          "version": "2.30909.0"
+        }
+      },
+      {
+        "package": "PKHUD",
+        "repositoryURL": "https://github.com/pkluz/PKHUD",
+        "state": {
+          "branch": null,
+          "revision": "8fd26f23057c6bebd6695524b1c3e05e93aba571",
+          "version": "5.4.0"
+        }
+      },
+      {
+        "package": "Promises",
+        "repositoryURL": "https://github.com/google/promises.git",
+        "state": {
+          "branch": null,
+          "revision": "540318ecedd63d883069ae7f1ed811a2df00b6ac",
+          "version": "2.4.0"
+        }
+      },
+      {
+        "package": "smithy-swift",
+        "repositoryURL": "https://github.com/smithy-lang/smithy-swift",
+        "state": {
+          "branch": null,
+          "revision": "8a5b0105c1b8a1d26a9435fb0af3959a7f5de578",
+          "version": "0.41.1"
+        }
+      },
+      {
+        "package": "SPPermissions",
+        "repositoryURL": "https://github.com/ivanvorobei/SPPermissions",
+        "state": {
+          "branch": null,
+          "revision": "ec3fc55e4fbc212cc746a84304f4aece0cb45467",
+          "version": "7.1.5"
+        }
+      },
+      {
+        "package": "SQLite.swift",
+        "repositoryURL": "https://github.com/stephencelis/SQLite.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "a95fc6df17d108bd99210db5e8a9bac90fe984b8",
+          "version": "0.15.3"
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "e97a6fcb1ab07462881ac165fdbb37f067e205d5",
+          "version": "1.5.4"
+        }
+      },
+      {
+        "package": "SwiftProtobuf",
+        "repositoryURL": "https://github.com/apple/swift-protobuf.git",
+        "state": {
+          "branch": null,
+          "revision": "9f0c76544701845ad98716f3f6a774a892152bcb",
+          "version": "1.26.0"
+        }
+      },
+      {
+        "package": "SwiftUI-Introspect",
+        "repositoryURL": "https://github.com/siteline/SwiftUI-Introspect",
+        "state": {
+          "branch": "master",
+          "revision": "7165cadf7fc9e176c93f155169903142cc1eab74",
+          "version": null
+        }
+      },
+      {
+        "package": "WaterfallGrid",
+        "repositoryURL": "https://github.com/paololeonardi/WaterfallGrid",
+        "state": {
+          "branch": null,
+          "revision": "944aa82832ed5a9eaaf50862cdd53e3c10ab55eb",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

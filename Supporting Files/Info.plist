@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Facebook</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb487658026399710</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Google</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.369002323779-5k95pqhhp9t0llbpln9n48hns3hu68c6</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>identifier</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>487658026399710</string>
+	<key>FacebookClientToken</key>
+	<string>c8c617c04e18385534dd1da140212f1c</string>
+	<key>FacebookDisplayName</key>
+	<string>Identifier</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>We need your permission to continue</string>
+</dict>
+</plist>

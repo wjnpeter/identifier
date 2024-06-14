@@ -1,0 +1,9 @@
+disabled_rules:
+  - trailing_whitespace
+line_length: 3000
+identifier_name:
+  min_length: 1
+type_name:
+  min_length: 1
+file_length:
+  warning: 1000

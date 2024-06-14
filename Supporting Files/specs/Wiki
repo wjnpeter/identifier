@@ -1,0 +1,17 @@
+- Architecture
+In general, you should the following references.
+strong: View -> Presenter -> Interactor
+weak: Interactor -> Presenter -> View
+
+Presenter: ViewModel
+Interactor: Convert between Family and AMFamily
+Wireframe: get views
+
+- Add a new table to DB
+1. Edit /amplify/backend/api/identifierios/schema.graphql
+2. amplify push
+3. amplify codegen models
+4. drag /amplify/generated/models to Xcode
+(5). Reopen Xcode
+
+ref: https://docs.amplify.aws/lib/graphqlapi/getting-started/q/platform/ios/#configure-api

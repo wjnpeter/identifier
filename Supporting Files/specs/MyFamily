@@ -1,0 +1,56 @@
+Family
+- Steps:
+1. Inviting-User send invite
+DB "AMFamily"
+get my family, or create one with me:
+{
+    members: {
+        member: {
+            userId: sub
+            accepted: true/false/nil, accepted, rejected, pending
+        }
+    }
+}
+
+add new member for invited-user in my family:
+{
+    members: {
+        member: {
+            email: email
+            accepted: true/false/nil, accepted, rejected, pending
+        }
+    }
+}
+
+- Setting -> My Family:
+The family that contains me
+
+Invited-User:
+show pending invites, "AMFamily.members.member.email" is me and "accepted" is pending
+
+2.1 Invited-User click accept
+set "AMFamily.members.member.accepted" to true
+set "AMFamily.members.member.userId" to me
+
+for other invites
+set "AMFamily.members.member.accepted" to false
+
+2.2 Invited-User click reject
+set "AMFamily.members.member.accepted" to false
+
+
+- User:
+Add firstName attribute
+
+- Plant List:
+Plant Setting:
+Share with My Family / Set to private:
+Who can share: AMPlant.userIds[0] is me
+AMPlant.privacy default is private
+When "I" tap "share with my family": set AMPlant.privacy to family
+
+Indicate sharing plants:
+select plants where AMFamily.members.userId == AMPlant.userId && AMPlant.privacy == famimly
+
+Show plants from family:
+
